@@ -1,0 +1,2 @@
+   text	   code	 rodata	   data	    bss	    dec	    hex	filename
+ 409090	 351990	  57100	    630	  90108	 499828	  7a074	B91_mesh.elf
